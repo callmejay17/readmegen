@@ -19,7 +19,7 @@ Whether you're a developer, hacker, student, or indie maker, ReadMeGen makes it 
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/yourusername/readmegen.git
+$ git clone https://github.com/callmejay17/readmegen.git
 $ cd readmegen
 
 # Install locally
@@ -47,7 +47,7 @@ A cool CLI tool.
 
 ## 🚀 Installation
 ```bash
-$ git clone https://github.com/yourusername/my-awesome-tool.git
+$ git clone https://github.com/callmejay17/my-awesome-tool.git
 $ cd my-awesome-tool
 ```
 
@@ -71,7 +71,7 @@ This project is licensed under the MIT license.
 ---
 
 ## 🧠 Author
-**Your Name** — [@yourhandle](https://github.com/yourusername)
+**** — [@jay](https://github.com/callmejay17)
 
 ---
 
